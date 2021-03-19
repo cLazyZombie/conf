@@ -1,0 +1,21 @@
+{
+    "vim.argumentObjectClosingDelimiters": [
+        ")",
+        "]",
+        ">"
+    ],
+    "vim.argumentObjectOpeningDelimiters": [
+        "(",
+        "[",
+        "<"
+    ],
+    "workbench.editor.decorations.colors": true,
+    "vim.smartRelativeLine": true,
+    "vim.useSystemClipboard": true,
+    "workbench.colorTheme": "GitHub Dark",
+    "vim.highlightedyank.enable": true,
+    "vim.useCtrlKeys": false,
+    "editor.formatOnSave": true,
+    "go.toolsManagement.autoUpdate": true,
+    "editor.mouseWheelZoom": true
+}
