@@ -14,8 +14,25 @@
     "vim.useSystemClipboard": true,
     "workbench.colorTheme": "GitHub Dark",
     "vim.highlightedyank.enable": true,
-    "vim.useCtrlKeys": false,
     "editor.formatOnSave": true,
     "go.toolsManagement.autoUpdate": true,
-    "editor.mouseWheelZoom": true
+    "editor.mouseWheelZoom": true,
+    "vim.leader": " ",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "<leader>",
+                "p"
+            ],
+            "after": [
+                "c",
+                "a",
+                "w",
+                "<C-r>",
+                "0",
+                ""
+            ]
+        }
+    ]
 }
